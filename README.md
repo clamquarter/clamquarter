@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @clamquarter
+ <h1>Hi, I’m India!</h1>
 - 👀 I’m interested in iOS development, Machine Learning, VR, and game development.
 - 🌱 I’m currently learning how to deisgn apps using SwiftUI.
 - 💞️ I’m looking to collaborate on games and VR experiences.
