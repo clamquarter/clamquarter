@@ -1,7 +1,7 @@
  <h1>Hi, I’m India!</h1>
-  👀 I’m interested in iOS development, Machine Learning, VR, and game development.
- 🌱 I’m currently learning how to design apps using SwiftUI.
- 💞️ I’m looking to collaborate on games and VR experiences.
+  👀 I’m interested in iOS development, Machine Learning, VR, and game development.<br>
+ 🌱 I’m currently learning how to design apps using SwiftUI.<br>
+ 💞️ I’m looking to collaborate on games and VR experiences.<br>
  <br>
  <h2>📱iOS Projects</h3>
  <ul>
@@ -12,6 +12,11 @@
  <li><a href="https://github.com/clamquarter/PitchPerfect">Pitch Perfect</a></li>
   <li><a href="https://github.com/clamquarter/StandAid">StandAid</a></li>
  </ul>
+ 
+ <div>
+ <img src="https://github.com/clamquarter/ApplePie/blob/master/images/ApplePieStart.png" width="200">
+  <img src="https://github.com/clamquarter/StandAid/blob/main/images/TimePicker.png" width="138">
+ </div>
  
  
  <h2>💻Web Projects</h3>
