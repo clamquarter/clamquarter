@@ -8,6 +8,7 @@
   <li><a href="https://github.com/clamquarter/ApplePie">Apple Pie</a></li>
    <li><a href="https://github.com/clamquarter/Brew-Snob">BrewSnob</a></li>
  <li><a href="https://github.com/clamquarter/GreenDream">GreenDream</a></li> 
+   <li><a href="https://github.com/clamquarter/Guap">Guap</a></li>
    <li><a href="https://github.com/clamquarter/MemeMe">MemeMe</a></li>
  <li><a href="https://github.com/clamquarter/PitchPerfect">Pitch Perfect</a></li>
   <li><a href="https://github.com/clamquarter/StandAid">StandAid</a></li>
@@ -15,7 +16,9 @@
  
  <div>
  <img src="https://github.com/clamquarter/ApplePie/blob/master/images/ApplePieStart.png" width="200">
-  <img src="https://github.com/clamquarter/StandAid/blob/main/images/TimePicker.png" width="138">
+  <img src="https://github.com/clamquarter/StandAid/blob/main/images/TimePicker.png" width="138">  
+ <img src="https://github.com/clamquarter/Guap/blob/main/Guap/Assets.xcassets/BudgetScreen.png" width="118">
+
  </div>
  
  
