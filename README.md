@@ -29,8 +29,7 @@
  </ul>
 
   <h2>👩🏾‍💻Connect With Me</h3>
-  <a href="https://www.linkedin.com/in/india-walker-48337a143/">LinkedIn</a> <a href="https://www.instagram.com/clamquarter/">Instagram</a> <a href="https://www.youtube.com/@clamquarter/videos">YouTube</a> 
-  
+  <a href="https://www.linkedin.com/in/india-walker-48337a143/">LinkedIn</a> 
  
 
 
