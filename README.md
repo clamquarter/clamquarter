@@ -1,7 +1,7 @@
  <h1>Hi, I’m India!</h1>
   👀 I’m interested in iOS development, Machine Learning, VR, and game development.<br>
- 🌱 I’m currently learning how to design apps using SwiftUI.<br>
- 💞️ I’m looking to collaborate on games and VR experiences.<br>
+ 🌱 I’m currently learning how to design apps using Flutter<br>
+ 💞️ I’m looking to collaborate on Machine Learning and Legal Tech.<br>
  <br>
  <h2>📱iOS Projects</h3>
  <ul>
